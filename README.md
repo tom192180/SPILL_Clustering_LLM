@@ -33,7 +33,7 @@ You can download from below.
 
     bank77: Huggingface (This one is in the script and will be automatically download if you choose experiement on the dataset)
     
-4. **Add huggingface token ID:** for using some models like LLama or Gemma, replace ''huggingfaceID' with yours in the code.
+4. **Add huggingface token ID:** for using some models like LLama or Gemma, replace ''hf_ID' with yours in the code.
 
 
 Then you are good to go!
