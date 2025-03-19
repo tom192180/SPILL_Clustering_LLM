@@ -1,6 +1,6 @@
 
 
-# SPILL: Zero-shot Intent Clustering with Large Language Models (We are still in the review stage, so we have set it to private)
+# SPILL: Zero-shot Intent Clustering with Large Language Models
 
 ## Introduction
 
