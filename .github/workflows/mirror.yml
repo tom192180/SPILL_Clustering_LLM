@@ -34,7 +34,7 @@ jobs:
      - name: Push to mirror repository
        run: |
          # Add the LESSEN organization repository as a new remote called "mirror"
-         git remote add mirror git@github.com:LESSEN-Project/<repo_name>.git
+         git remote add mirror git@github.com:LESSEN-Project/spill.git
          
          # Force push all branches and tags to the mirror repository
          git push --force --all mirror
