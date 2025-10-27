@@ -39,3 +39,4 @@ jobs:
          # Force push all branches and tags to the mirror repository
          git push --force --all mirror
          git push --force --tags mirror
+         
